@@ -1,6 +1,6 @@
 Computer Science student @ University of Brasilia (UnB)
 
-I'm pretty bad at this but they say I'm pretty good so I must be doing something right at least
+<font color = "green">yupi</font>
 
 The only tragedy is life
 
