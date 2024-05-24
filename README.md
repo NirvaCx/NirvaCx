@@ -1,7 +1,5 @@
 Computer Science student @ University of Brasilia (UnB)
 
-<font color = "green">yupi</font>
-
 The only tragedy is life
 
 <!---
